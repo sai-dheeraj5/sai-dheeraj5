@@ -1,4 +1,4 @@
-# Hi there, I'm [Sai Dheeraj Manchikanti] 👋
+# Hi there, I'm Sai Dheeraj Manchikanti 👋
 
 ### About Me
 
