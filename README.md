@@ -5,7 +5,8 @@
 -   I'm a **versatile Developer** with a strong background in **ASP.NET (C#)** and a deep passion for **Java Data Structures & Algorithms (DSA)**.
 -   Actively seeking to transition into dedicated **Java/DSA-focused roles** to leverage my problem-solving skills and extensive knowledge.
 -   Experienced in **full-stack web application development**, from robust **ERP systems** to secure **online registration portals**.
--   Proficient in designing and consuming **RESTful APIs** using **Kotlin** and **Java**.
+-   Proficient in designing and consuming **RESTful APIs** using **Jq** and **cURL**.
+-   Designed Secure Login module using **Kotlin** and **Java** and **Google FireBase**.
 -   Skilled in **manual testing**, creating diverse test cases, and ensuring software quality.
 
 ---
